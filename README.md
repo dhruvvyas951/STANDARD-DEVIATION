@@ -1,0 +1,2 @@
+# STANDARD-DEVIATION
+code written in PYTHON
